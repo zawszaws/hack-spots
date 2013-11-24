@@ -26,7 +26,7 @@ Replace the existing spreadsheet URL key with your spreadsheet's key. You'll fin
 
 Commit those changes and **LIKE WOAH** you now have a version of this website hooked to a spreadsheet that you can distrubute however you'd like.
 
-You can find your version at **yourGitHubName.github.io/theReposName** (in this case /hack-spots).
+You can find your version at http://zawszaws.github.io/pg22 (in this case /hack-spots).
 
 ## But How?
 
